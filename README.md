@@ -66,3 +66,4 @@ RubyGems.org uses the MIT license. Please check the [LICENSE][] file for more de
 
 [license]: https://github.com/rubygems/rubygems.org/blob/master/MIT-LICENSE
 # rubygems
+# gems_example

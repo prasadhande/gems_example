@@ -24,7 +24,7 @@ jobs:
       - name: Install and start database service
         run: |
           docker-compose up -d db
-      - uses: ruby/setup-ruby@4d060a10e6d98429c69057f0aafbc65fb982bae8 # v1.137.0
+      - uses: ruby/setup-ruby@5cfe23c062c0aac352e765b1b7cc12ea5255ccc4 # v1.156.0
         with:
           bundler-cache: true
       - name: Install Graphviz

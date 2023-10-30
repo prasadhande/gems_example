@@ -118,7 +118,7 @@ GEM
     bloomer (1.0.0)
       bitarray
       msgpack
-    bootsnap (1.16.0)
+    bootsnap (1.17.0)
       msgpack (~> 1.2)
     brakeman (5.4.0)
     builder (3.2.4)
@@ -277,7 +277,7 @@ GEM
     minitest (5.17.0)
     mocha (2.0.2)
       ruby2_keywords (>= 0.0.5)
-    msgpack (1.6.0)
+    msgpack (1.7.2)
     multi_json (1.15.0)
     multi_xml (0.6.0)
     multipart-post (2.1.1)
